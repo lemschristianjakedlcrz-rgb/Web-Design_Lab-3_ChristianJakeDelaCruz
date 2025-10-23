@@ -10,4 +10,4 @@
    I faced the thing about postting, I find my website is lacking some pictures or idea so I found it the posting thing.
 
 My Website (Wordpress)
-![alt text](image-2.png)
+
