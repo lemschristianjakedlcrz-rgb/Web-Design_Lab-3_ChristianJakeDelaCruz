@@ -8,5 +8,3 @@
 
 3. What challenges did you face?
    I faced the thing about postting, I find my website is lacking some pictures or idea so I found it the posting thing.
-
-![alt text](image-3.png)
